@@ -1,0 +1,23 @@
+{
+  "name": "mean-routes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsmpnb/MEAN-stack-Angular2-Routing-and-Navigation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsmpnb/MEAN-stack-Angular2-Routing-and-Navigation/issues"
+  },
+  "homepage": "https://github.com/bsmpnb/MEAN-stack-Angular2-Routing-and-Navigation#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.10"
+  }
+}
